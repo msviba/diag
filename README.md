@@ -1,1 +1,1 @@
-# diag
+# nginx sidecar
